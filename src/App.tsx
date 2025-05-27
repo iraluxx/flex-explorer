@@ -15,7 +15,7 @@ function App() {
   
 
   useEffect(() => {
-    fetch('/data/councils.json')
+    fetch("/data/council_polygons.min.geojson")
       .then((res) => res.json())
       .then(setCouncils);
   }, []);
