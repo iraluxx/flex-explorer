@@ -1,0 +1,11 @@
+,name,official-name,region,nation,gss-code,lat,lng,ev_score,solar_score,fuel_poverty_score,grants_score,total_score
+0,Bedford,Bedford Borough Council,East of England,England,E06000055,-0.4770824350213,52.18918053057245,2,1,6,3,12
+1,Blackburn with Darwen,Blackburn with Darwen Borough Council,North West,England,E06000008,-2.4675476946208126,53.69261245008202,3,1,8,4,16
+2,Blackpool,Blackpool Borough Council,North West,England,E06000009,-3.035526339791786,53.817662831154095,3,0,8,4,15
+3,"Bournemouth, Christchurch and Poole","Bournemouth, Christchurch and Poole Council",South West,England,E06000058,-1.8832767544275928,50.74701827327496,4,4,6,5,19
+4,Bracknell Forest,Bracknell Forest Council,South East,England,E06000036,-0.7397376225054983,51.40811249783455,1,1,4,0,6
+5,Brighton and Hove,Brighton and Hove City Council,South East,England,E06000043,-0.1331354533735592,50.84348509595687,9,1,4,10,24
+6,Buckinghamshire,Buckinghamshire Council,South East,England,E06000060,-0.8115708416412193,51.78496412170722,6,3,4,7,20
+7,Central Bedfordshire,Central Bedfordshire Council,East of England,England,E06000056,-0.4362919550907491,52.00662956306432,2,1,6,3,12
+8,Cheshire East,Cheshire East Council,North West,England,E06000049,-2.3499425324278875,53.18027089095206,5,3,8,6,22
+9,Cheshire West and Chester,Cheshire West and Chester Council,North West,England,E06000050,-2.7358562336423207,53.2001564783003,4,1,8,5,18
