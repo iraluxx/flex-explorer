@@ -23,7 +23,7 @@ function Map({ councils, onSelectCouncil, selectedCouncil, hoveredCouncil }) {
         setTimeout(() => map.resize(), 100);
 
 
-        fetch("/data/council_polygons.geojson")
+        fetch("/data/council_polygons.min.geojson")
           .then(res => res.json())
           .then(data => {
             map.addSource("council-polygons", {

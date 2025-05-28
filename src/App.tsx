@@ -15,13 +15,13 @@ function App() {
   
 
   useEffect(() => {
-    fetch("/data/council_polygons.min.geojson")
+    fetch("/data/councils.json")
       .then((res) => res.json())
       .then(setCouncils);
   }, []);
 
   useEffect(() => {
-    fetch('/data/council_polygons.min.geojson')
+    fetch('/data/council_polygons.min.json')
       .then((res) => res.json())
       .then(setPolygonData);
   }, []);
